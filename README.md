@@ -1,2 +1,2 @@
 # CanSat-Hardware
-Hardware architecture, PCB schematicas (KiCad), and technical ducumentation for the CanSat aerospace project.
+Hardware architecture, PCB schematics (KiCad), and technical ducumentation for the CanSat aerospace project.
